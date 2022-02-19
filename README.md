@@ -31,7 +31,7 @@ sempre em aprendizado para aplicar o melhor de cada tecnologia em cada ideia no 
 </p>
 <br>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
