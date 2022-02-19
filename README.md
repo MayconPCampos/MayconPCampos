@@ -5,15 +5,13 @@ busco inovar e criar soluções online que possam ajudar pessoas e contribuir pa
 sempre em aprendizado para aplicar o melhor de cada tecnologia em cada ideia no dia a dia.
 
 ### Contato
-  <a href="https://www.linkedin.com/in/maycon-pinheiro-campos-6209a222b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:mayconpinheirocampos@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="mailto:mayconpinheirocampos@gmail.com">e-mail</a>
+    <br>
+  <a href="https://www.linkedin.com/in/maycon-pinheiro-campos-6209a222b/">LinkedIn</a>
+
+
 
 <hr>
-
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
