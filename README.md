@@ -1,8 +1,8 @@
 ## Olá, seja bem-vindo(a).
 
 Como estudante de engenharia de software e programador desenvolver para a web vem sendo meu foco principal,
-buscando inovar e criar soluções que possam ajudar pessoas e contribuir para a comunidade, 
-sempre em aprendizado para aplicar o melhor de cada tecnologia em cada ideia no dia a dia.
+buscando o melhor caminho inovar e criar soluções que possam ajudar pessoas e contribuir para a comunidade, 
+em contínuo aprendizado para aplicar o melhor de cada tecnologia em cada ideia no dia a dia.
 
 ### Contato
   <a href="mailto:mayconpinheirocampos@gmail.com">e-mail</a>
