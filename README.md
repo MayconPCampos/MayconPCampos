@@ -1,6 +1,6 @@
 ## Olá, seja bem-vindo(a).
 
-Como programador buscando o melhor caminho para inovar e criar soluções que possam ajudar pessoas e contribuir para a comunidade, em contínuo aprendizado para aplicar o melhor de cada tecnologia em cada ideia no dia a dia.
+Programador back-end, no momento estou me especializando e migrando para a área de ciência de dados.
 
 ### Contato
   <a href="mailto:mayconpinheirocampos@outlook.com">e-mail</a>
