@@ -3,7 +3,7 @@
 Como programador buscando o melhor caminho para inovar e criar soluções que possam ajudar pessoas e contribuir para a comunidade, em contínuo aprendizado para aplicar o melhor de cada tecnologia em cada ideia no dia a dia.
 
 ### Contato
-  <a href="mailto:mayconpinheirocampos@gmail.com">e-mail</a>
+  <a href="mailto:mayconpinheirocampos@outlook.com">e-mail</a>
     <br>
   <a href="https://www.linkedin.com/in/maycon-pinheiro-campos-6209a222b/">LinkedIn</a>
 
