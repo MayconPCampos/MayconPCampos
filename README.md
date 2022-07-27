@@ -1,6 +1,6 @@
 ## Olá, seja bem-vindo(a).
 
-Programador back-end, no momento estou me especializando e migrando para a área de ciência de dados.
+Programador back-end, no momento me especializando e migrando para a área de ciência de dados.
 
 ### Contato
   <a href="mailto:mayconpinheirocampos@outlook.com">e-mail</a>
