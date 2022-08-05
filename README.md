@@ -1,6 +1,6 @@
 ## Olá, seja bem-vindo(a).
 
-Programador back-end, tenho conhecimentos com programação web e interesse na área da inteligência artificial.
+Programador back-end em formação, tenho conhecimentos com programação web e interesse na área da inteligência artificial.
 
 ### Contato
   <a href="mailto:mayconpinheirocampos@outlook.com">e-mail</a>
