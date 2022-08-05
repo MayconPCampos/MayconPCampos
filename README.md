@@ -5,7 +5,7 @@ Programador back-end, tenho conhecimentos com programação web e interesse na �
 ### Contato
   <a href="mailto:mayconpinheirocampos@outlook.com">e-mail</a>
     <br>
-  <a href="https://www.linkedin.com/in/maycon-pinheiro-campos-6209a222b/">LinkedIn</a>
+  
 
 
 
