@@ -1,6 +1,6 @@
 ## Olá, seja bem-vindo(a).
 
-Programador back-end com conhecimentos em programação web migrando para área de inteligência artificial.
+Após alguns anos estudando e programando back-end decidi me dedicar ao front-end para a web, Posteriormente desejo voltar minha atenção para o desenvolvimento mobile também.
 
 ### Contato
   <a href="mailto:mayconpinheirocampos@outlook.com">e-mail</a>
@@ -27,6 +27,7 @@ Programador back-end com conhecimentos em programação web migrando para área 
 </p>
 <br>
 
+### Conhecimentos:
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
