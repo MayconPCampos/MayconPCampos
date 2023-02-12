@@ -2,7 +2,7 @@
 
 Aqui você vai encontrar alguns dos meus projetos desenvolvidos.
 
-Atualmente estou estudando desenvolvimento front-end onde pretendo atuar, tendo também interesse em mobile. :upside_down_face:
+Atualmente estou migrando e me aperfeiçoando no desenvolvimento front-end onde pretendo atuar, tendo também interesse em mobile. :upside_down_face:
 
 ### Contato
   <a href="mailto:mayconpinheirocampos@outlook.com">e-mail</a>
