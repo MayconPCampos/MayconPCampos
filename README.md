@@ -1,8 +1,8 @@
 ## Olá, seja bem-vindo(a).
 
-Aqui você vai encontrar alguns de meus projetos desenvolvidos após alguns anos estudando e programando back-end.
+Aqui você vai encontrar alguns dos meus projetos desenvolvidos.
 
-Porém atualmente decidi migrar e me dedicar ao desenvolvimento front-end, tendo também interesse em mobile. :upside_down_face:
+Atualmente estou estudando desenvolvimento front-end onde pretendo atuar, tendo também interesse em mobile. :upside_down_face:
 
 ### Contato
   <a href="mailto:mayconpinheirocampos@outlook.com">e-mail</a>
