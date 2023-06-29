@@ -2,8 +2,6 @@
 
 Aqui você vai encontrar alguns dos meus projetos desenvolvidos.
 
-Atualmente estou me aperfeiçoando no desenvolvimento front-end para web e na programação de jogos digitais com c++ e Unreal Engine 5 :upside_down_face:
-
 ### Contato
   <a href="mailto:mayconpinheirocampos@outlook.com">e-mail</a>
     <br>
@@ -25,7 +23,7 @@ Atualmente estou me aperfeiçoando no desenvolvimento front-end para web e na pr
 </p>
 <br>
 
-### Me especializando atualmente:
+### Tecnologias
 <p align="left">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -33,8 +31,6 @@ Atualmente estou me aperfeiçoando no desenvolvimento front-end para web e na pr
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
-
-### Conhecimentos:
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
