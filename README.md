@@ -1,6 +1,6 @@
 ## Olá, seja bem-vindo(a).
 
-Aqui você vai encontrar alguns de meus projetos desenvolvidos.
+Aqui você vai encontrar alguns meus projetos desenvolvidos.
 
 ### Contato
   <a href="mailto:mayconpinheirocampos@outlook.com">e-mail</a>
