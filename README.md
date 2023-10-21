@@ -1,10 +1,17 @@
 ## Olá, seja bem-vindo(a).
 
-Aqui você vai encontrar alguns meus projetos desenvolvidos.
+Aqui você vai encontrar alguns dos meus projetos desenvolvidos. :smile:
 
 ### Contato
-  <a href="mailto:mayconpinheirocampos@outlook.com">e-mail</a>
-    <br>
+  
+  <a href="mailto:mayconpinheirocampos@outlook.com">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/aka.maycon/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+ 
+  <br>
 <hr>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -25,11 +32,11 @@ Aqui você vai encontrar alguns meus projetos desenvolvidos.
 
 ### Tecnologias
 <p align="left">
+    <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
