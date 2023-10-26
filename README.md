@@ -30,6 +30,7 @@ Aqui você vai encontrar alguns dos meus projetos desenvolvidos. :smile:
 </p>
 <br>
 
+<!--
 ### Tecnologias 
 <p align="left">
     <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -38,7 +39,7 @@ Aqui você vai encontrar alguns dos meus projetos desenvolvidos. :smile:
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white0"/>
 </p>
-<!-- <p align="left">
+ <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
