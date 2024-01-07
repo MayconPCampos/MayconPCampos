@@ -1,9 +1,8 @@
-## Olá, seja bem-vindo(a).
+## Hello, Welcome!
 
-Aqui você vai encontrar alguns dos meus projetos desenvolvidos. :smile:
-
-Você pode conferir alguns projetos publicados no meu site através do link:
-<a href="https://maycon-campos.vercel.app/">Meu site</a>
+Here you will find some of my developed projects. 😄<br>
+You can check out some projects published on my website through the link: 
+<a href="https://maycon-campos.vercel.app/">My website</a>
 <!--
 ### Contato
   
