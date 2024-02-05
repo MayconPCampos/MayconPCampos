@@ -1,4 +1,4 @@
-## Hello, Welcome!
+## Hello and Welcome!
 
 Here you will find some of my developed projects. 😄<br>
 You can check out some projects published on my website through the link: 
