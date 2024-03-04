@@ -2,7 +2,7 @@
 
 Here you will find some of my developed projects. 😄<br>
 You can check out some projects published on my website through the link: 
-<a href="https://maycon-campos.vercel.app/">My website</a>
+<a href="https://mayconcampos.vercel.app/">My website</a>
 <!--
 ### Contato
   
