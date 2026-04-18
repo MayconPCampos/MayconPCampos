@@ -1,8 +1,7 @@
 ## Olá,  seja bem-vindo(a)!
 
-Aqui você encontrará alguns dos meus projetos desenvolvidos. 😄<br>
-Você pode conferir alguns projetos publicados no meu site através do link:
-<a href="https://mayconcampos.vercel.app/">My website</a>
+Aqui você encontrará alguns dos meus projetos desenvolvidos. 😄<br><!--
+
 <!--
 ### Contato
   
